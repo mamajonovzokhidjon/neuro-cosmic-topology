@@ -1,16 +1,27 @@
 # Neuro-Cosmic Topology
 
-A foundational network science model analyzing structural topological similarities between cosmic webs and neural networks using Python.
+A quantitative network science model analyzing the structural topological similarities between cosmic webs and human neural networks (connectomes).
 
-## Overview
-This project explores graph theory metrics (such as clustering coefficients and network connectivity) to model and compare structural patterns found in complex systems.
+## 🌌 Overview
+Although separated by 27 orders of magnitude in spatial scale, the large-scale structure of the Universe (cosmic web of galaxies and filaments) and the micro-scale structure of the human brain (neuronal networks) share striking topological properties. This project simulates and analyzes these structural characteristics using advanced network science methodologies, heavily inspired by foundational research from **Franco Vazza** and **Alberto Feletti**.
 
-## Requirements
-To run this model, make sure you have the following Python libraries installed:
-- `networkx`
-- `matplotlib`
+## 🧠 Key Features & Metrics
+* **Small-World Architecture:** Implements the **Watts-Strogatz model** to simulate high clustering coefficients alongside short average path lengths.
+* **Topological Metrics:** 
+  * Average Clustering Coefficient ($C$)
+  * Average Shortest Path Length ($L$)
+  * Degree Distribution & Hub Identification ($k$)
+* **Dual-Panel Visualization:** Generates dark-themed, publication-ready visual topologies and degree distribution histograms.
 
-## Usage
-You can open and run this model directly in your browser using Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mamajonovzokhidjon/neuro-cosmic-topology/blob/main/basic_network_model.ipynb)
+## 🛠️ Tech Stack
+* **Python**
+* **NetworkX** (Network analysis & graph generation)
+* **Matplotlib** (Advanced data visualization)
+* **NumPy** (Mathematical computations)
 
+## 🚀 How to Run
+You can run this simulation directly in your browser via Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mamajonovzokhidjon/neuro-cosmic-topology/blob/main/Neuro_Cosmic_Topology_Simulation.ipynb)
+
+---
+*Developed as part of an independent exploration into complex systems and network topology.*
