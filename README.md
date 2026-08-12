@@ -40,3 +40,5 @@ This repository now includes a comparative quantitative analysis examining struc
 
 ### 🚀 Visualizations
 The model generates publication-ready dual-panel dark-themed plots comparing the spatial topologies of cosmic structures and neural networks.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mamajonovzokhidjon/neuro-cosmic-topology/blob/main/Neuro_Cosmic_Topology_Comparative_Analysis.ipynb)
