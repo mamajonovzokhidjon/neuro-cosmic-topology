@@ -25,3 +25,18 @@ You can run this simulation directly in your browser via Google Colab:
 
 ---
 *Developed as part of an independent exploration into complex systems and network topology.*
+
+## 🔬 Comparative Topological Analysis
+
+This repository now includes a comparative quantitative analysis examining structural and topological similarities between:
+1. **Cosmic Web Simulations** (Scale-free network properties modeled via the Barabási-Albert algorithm)
+2. **Human Neural Connectomes** (Small-world network properties modeled via the Watts-Strogatz algorithm)
+
+### 📊 Key Metrics Analyzed
+* **Number of Nodes & Edges**
+* **Average Degree**
+* **Clustering Coefficient**
+* **Average Shortest Path Length**
+
+### 🚀 Visualizations
+The model generates publication-ready dual-panel dark-themed plots comparing the spatial topologies of cosmic structures and neural networks.
