@@ -18,6 +18,7 @@ You can run this simulation directly in your browser via Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mamajonovzokhujdon/neuro-cosmic-topology/blob/main/Neuro_Cosmic_Topology_Comparative_Analysis.ipynb)
 
 ### 📊 Comparative Metrics Summary
+
 | Network Model | Nodes ($|V|$)| Edges ($|E|$)| Avg Degree ($\langle k \rangle$) | Clustering Coeff ($C$) |
 
 | :--- | :--- | :--- | :--- | :--- |
@@ -35,10 +36,7 @@ You can run this simulation directly in your browser via Google Colab:
 * **Matplotlib** (Advanced data visualization)
 * **NumPy** (Mathematical computations)
 
-## 🚀 How to Run
-You can run this simulation directly in your browser via Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mamajonovzokhidjon/neuro-cosmic-topology/blob/main/Neuro_Cosmic_Topology_Simulation.ipynb)
-
+##
 ---
 *Developed as part of an independent exploration into complex systems and network topology.*
 
