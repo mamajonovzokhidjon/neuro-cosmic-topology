@@ -19,8 +19,11 @@ You can run this simulation directly in your browser via Google Colab:
 
 ### 📊 Comparative Metrics Summary
 | Network Model | Nodes ($|V|$)| Edges ($|E|$)| Avg Degree ($\langle k \rangle$) | Clustering Coeff ($C$) |
+
 | :--- | :--- | :--- | :--- | :--- |
+
 | **Cosmic Web (BA)** | 300 | ~891 | ~5.94 | ~0.065 |
+
 | **Neural Connectome (WS)** | 300 | 900 | 6.00 | ~0.521 |
 
 ---
