@@ -13,6 +13,19 @@ Although separated by 27 orders of magnitude in spatial scale, the large-scale s
   * Degree Distribution & Hub Identification ($k$)
 * **Dual-Panel Visualization:** Generates dark-themed, publication-ready visual topologies and degree distribution histograms.
 
+## 🚀 How to Run
+You can run this simulation directly in your browser via Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mamajonovzokhujdon/neuro-cosmic-topology/blob/main/Neuro_Cosmic_Topology_Comparative_Analysis.ipynb)
+
+### 📊 Comparative Metrics Summary
+| Network Model | Nodes ($|V|$)| Edges ($|E|$)| Avg Degree ($\langle k \rangle$) | Clustering Coeff ($C$) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Cosmic Web (BA)** | 300 | ~891 | ~5.94 | ~0.065 |
+| **Neural Connectome (WS)** | 300 | 900 | 6.00 | ~0.521 |
+
+---
+
+
 ## 🛠️ Tech Stack
 * **Python**
 * **NetworkX** (Network analysis & graph generation)
